@@ -78,7 +78,6 @@ const App: React.FC = () => {
           )
         })}
       </div>
-      
       {winner &&
         <footer>
           {winner === "E" ?  
