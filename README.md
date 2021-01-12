@@ -17,10 +17,18 @@ git clone https://github.com/weilemann/Jogo-da-Velha.git
 ```bash
 yarn
 ```
+ou
+```bash
+npm install
+```
 
 ### Executar o código
 ```bash
 yarn start
+```
+ou
+```bash
+npm start
 ```
 
 ### Se divertir! 😄
